@@ -4,7 +4,7 @@
 (generate_opam_files true)
 
 (license "LGPL-2.1-only with OCaml-LGPL-linking-exception")
-(maintainers jeremie@dimino.org david.allsopp@metastack.com)
+(maintainers david.allsopp@metastack.com)
 (authors "Xavier Leroy"
          "Jun Furuse"
          "J-M Geffroy"
