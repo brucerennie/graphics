@@ -6,6 +6,12 @@ let () =
   set_font "monospace";
   moveto 10 200;
   draw_string "Hello, graphics";
+  set_font "monospace:italic";
+  moveto 250 200;
+  draw_string "(italics)";
+  set_font "monospace:bold";
+  moveto 400 200;
+  draw_string "(bold)";
   set_font "monospace-20";
   moveto 10 130;
   draw_string "20 point type";
